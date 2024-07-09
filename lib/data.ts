@@ -38,7 +38,15 @@ export const experiencesData = [
     title: "Graduated College",
     location: "St. John's, NL",
     description:
-      "Graduated from the College of the North Atlantic with a Diploma in Accelerated Software Developmet and a 3.8 GPA.",
+      "Graduated from the College of the North Atlantic with a Diploma in Instrumentation and Controls Engineering.",
+    icon: React.createElement(LuGraduationCap),
+    date: "2019",
+  },
+  {
+    title: "Graduate Program",
+    location: "St. John's, NL",
+    description:
+      "Completed graduate program from the College of the North Atlantic with a Diploma in Accelerated Software Developmet and a 3.8 GPA.",
     icon: React.createElement(LuGraduationCap),
     date: "2021",
   },

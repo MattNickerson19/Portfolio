@@ -50,9 +50,10 @@ export default function Intro() {
       >
         <span className="font-bold">Hello, I'm Matt.</span> I'm a{" "}
         <span className="font-bold">software developer</span> with{" "}
-        <span className="font-bold">3 years</span> of experience. I enjoy
-        building <span className="italic">websites</span>. My focus is{" "}
-        <span className="underline">React (Next.js)</span>.
+        <span className="font-bold">3 years</span> of industry experience. I am from {" "}
+        <span className="font-bold">Newfoundland, Canada.</span> In my free time
+        I enjoy playing hockey, cycling and hiking. {" "}
+        <span className="font-bold">Welcome</span> to my portfolio website.
       </motion.h1>
 
       <motion.div

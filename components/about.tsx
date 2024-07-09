@@ -22,14 +22,14 @@ export default function About() {
         After graduating with a diploma in{" "}
         <span className="font-medium">Instrumentation and Controls Engineering</span>, I decided to transition into web development.
         I then graduated with a diploma in {" "}
-        <span className="font-medium">Accelerated Software Development</span>.{" "} from College of the North Atlantic. I have worked the past
+        <span className="font-medium">Accelerated Software Development</span>{" "} from the College of the North Atlantic. I have worked the past
         <span className="italic"> 3 years</span> as a Software Developer, working at Compusult Limited in Mount Pearl, Newfoundland.
         My core stack
         is{" "}
         <span className="font-medium">
           React, Next.js, Node.js, and MongoDB
         </span>
-        . I am also familiar with TypeScript and Tailwind. I am always looking to
+        . I am also familiar with Java, Python and Tailwind. I am always looking to
         learn new technologies. I am currently looking for a{" "}
         <span className="font-medium">full-time position</span> as a software
         developer.
